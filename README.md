@@ -1,5 +1,5 @@
 # Polytoria HTTP API Test
-A proof of concept project to access an API / restAPI through Polytoria, relatively simple but maybe I could repurpose this (DOD REFERENCE??!?!?) into something so stupidly insane that breaks what is possible for a tech demo
+A proof of concept project to access an API / restAPI through Polytoria, relatively simple but maybe I could repurpose this (DOD REFERENCE??!?!?) into something so stupidly insane that breaks what is possible for a tech demo.
 
 
 ## What this repo hosts
