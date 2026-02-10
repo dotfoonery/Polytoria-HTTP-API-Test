@@ -1,6 +1,2 @@
-# Polytoria GET Requests DEMO (API Part)
-A proof of concept project to access an API / restAPI through Polytoria, that hosts game neccesities like game information. Relatively simple.
-
-
-## What this repo hosts
-This thing just basically hosts the code to a deployed link that hosts a bunch of game information to request, for example, info to answer "What is this game".
+# API Test
+I just basically learn how to make an API in python and test it with postman. I also prolly will try connecting this with Polytoria but idk
